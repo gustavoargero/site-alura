@@ -1,6 +1,7 @@
 ## Jogo do Dinossauro ##                                                                                                                                                                          
-RESENHA CRÍTICA DO FILME "FORREST GUMP"
-You can use the [editor on GitHub](https://github.com/gustavoargero/site-alura/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+RESENHA do jogo DINOSSAURO
+Você pode assesar o jogo desligando a internet ou assesando o site (chrome://dino).                                                                                                                                                                                                                                         
+  Digitando esse codigo no seu gloogle ele abrira uma guia com o jogo sem ter que desligar sua internet. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -14,7 +15,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+59 KB
 - Bulleted
 - List
 
