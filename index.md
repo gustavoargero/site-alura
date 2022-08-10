@@ -1,18 +1,18 @@
-## Jogo do Dinossauro ##                                                                                                                                                                          
+## Jogo do dinossauro ##                                                                                                                                                                          
 RESENHA do jogo DINOSSAURO
 Você pode assesar o jogo desligando a internet ou assesando o site (chrome://dino).                                                                                                                                                                                                                                         
   Digitando esse codigo no seu gloogle ele abrira uma guia com o jogo sem ter que desligar sua internet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 
 
-### Markdown
+###   remarcação 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+#  jogo
 ## Header 2
 ### Header 3
 59 KB
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![ImagMute
+[](https://s2.glbimg.com/LF5DAbEFQPLYV82fqwgeA2HDoJU=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/j/B/fEjkqCTlA0BMFLzSq8Bg/como-jogar-jogo-dinossauro-google-online-tutorial.jpg) and ![ImagMute
 41%
 Current Time 0:54e](src)
 ```
