@@ -19,8 +19,8 @@ Digitando esse codigo no seu gloogle ele abrira uma guia com o jogo sem ter que 
 59 KB
 - **Criador:** Google Chrome.
 - **Ano de criaçâo:** 2014 
-- **Designer(s):**
-1. Numbered
+- **Designer(s):** Edward Jung; Sebastien Gabriel; ...
+- **
 2. List
 
 **Bold** and _Italic_ and `Code` text
