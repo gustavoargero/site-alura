@@ -20,7 +20,7 @@ Digitando esse codigo no seu gloogle ele abrira uma guia com o jogo sem ter que 
 - **Criador:** Google Chrome.
 - **Ano de criaçâo:** 2014 
 - **Designer(s):** Edward Jung; Sebastien Gabriel; ...
-- **modo de jogo:** um jogador 
+- **modo de jogo:** um jogador    
 ## História por atrás do jogo 
 
 O running T-Rex começou em 2014 e é um “endless runner” — um joguinho em que um tiranossauro corre sem parar. O objetivo é ir se livrando dos obstáculos até conseguir bater sua pontuação anterior ou até sua internet voltar, o que em alguns casos pode durar horas.
